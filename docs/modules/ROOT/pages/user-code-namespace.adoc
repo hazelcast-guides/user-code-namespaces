@@ -173,7 +173,7 @@ Congratulations! You've just dynamically deployed an entry processor without dis
 
 == Summary
 
-User Code Namespaces provide isolation of Java classpath resources. In a cluster performing multiple tasks and operations, User Code Namespaces can provide resiliency by separating the those operations. Dynamic deployment allows you to then update those individual operations without affecting overall cluster behavior. 
+User Code Namespaces provide isolation of Java classpath resources. In a cluster performing multiple tasks and operations, User Code Namespaces can provide resiliency by separating the control of those operations from the underlying Hazelcast system and from each other. Dynamic deployment allows you to then update those individual operations without affecting overall cluster behavior. 
 
 == See Also
 
