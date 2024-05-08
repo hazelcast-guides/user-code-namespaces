@@ -158,7 +158,7 @@ Observe the output generated. With this version of the authorization code, you o
 
 == Update the Transaction Entry Processor
 
-. Edit the Transaction Entry Processor. You can un-commet the lines indicated, or you can make your own changes. Save your changes.
+. Edit the Transaction Entry Processor. You can un-comment the lines indicated, or you can make your own changes. Save your changes.
 
 . Rebuild and restart the service. 
 +
